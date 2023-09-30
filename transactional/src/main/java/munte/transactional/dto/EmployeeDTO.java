@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class EmployeeDTO {
     private String empName;
     private String email;
-    private Long departmentId;
+    private String departmentName;
 }
